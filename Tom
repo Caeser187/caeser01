@@ -1,3 +1,5 @@
 def fun():
     print("Tom也要去寻山")
     print("Tom还想再去一次")
+    
+    hello world
